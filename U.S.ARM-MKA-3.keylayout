@@ -142,7 +142,7 @@
             <key code="112" output="&#x003B;"/>
             <key code="113" output="&#x0027;"/>
             <key code="114" output="&#x0005;"/>
-            <key code="115" output="&#x0001;"/>
+            <key code="115" output="&#x002C;"/>
             <key code="116" output="1"/>
             <key code="117" output="/"/>
             <key code="118" output=","/>
@@ -254,7 +254,7 @@
             <key code="112" output="&#x003A;"/>
             <key code="113" output="&#x0022;"/>
             <key code="114" output="&#x0005;"/>
-            <key code="115" output="&#x0001;"/>
+            <key code="115" output="&#x003C;"/>
             <key code="116" output="1"/>
             <key code="117" output="/"/>
             <key code="118" output="&#x003C;"/>
