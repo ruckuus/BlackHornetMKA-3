@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Change F1 with Semicolon</name>
+        <identifier>private.swap_f1_semicolon</identifier>
+        <autogen>__KeyToKey__ KeyCode::F1, KeyCode::KEYPAD_2</autogen>
+    </item>
+    
+    <item>
+        <name>Change F2 and Quote</name>
+        <identifier>private.swap_f2_quote</identifier>
+        <autogen>__KeyToKey__ KeyCode::F2, KeyCode::KEYPAD_3</autogen>
+    </item>
+    
+    <item>
+        <name>Change F4 and COMMA</name>
+        <identifier>private.swap_f4_comma</identifier>
+        <autogen>__KeyToKey__ KeyCode::F4, KeyCode::KEYPAD_4</autogen>
+    </item>
+    
+    <item>
+        <name>Change F5 and DOT</name>
+        <identifier>private.swap_f5_dot</identifier>
+        <autogen>__KeyToKey__ KeyCode::F5, KeyCode::KEYPAD_5</autogen>
+    </item>
+        
+    <item>
+        <name>Change F6 and SLASH</name>
+        <identifier>private.swap_f6_slash</identifier>
+        <autogen>__KeyToKey__ KeyCode::F6, KeyCode::KEYPAD_6</autogen>
+    </item>
+</root>

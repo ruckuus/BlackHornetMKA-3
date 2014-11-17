@@ -2,18 +2,11 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-11-15 at 17:57 (GMT+8)-->
 <!--Last edited by Ukelele version 2.2.8 on 2014-11-15 at 20:50 (GMT+8)-->
-<keyboard group="0" id="7508" name="U.S.ARM-MKA-3-Revert" maxout="2">
+<keyboard group="0" id="7508" name="U.S.ARM-MKA-3-Two" maxout="2">
     <layouts>
-        <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
-        <layout first="18" last="18" modifiers="f4" mapSet="984"/>
-        <layout first="21" last="23" modifiers="f4" mapSet="984"/>
-        <layout first="30" last="30" modifiers="f4" mapSet="984"/>
-        <layout first="194" last="194" modifiers="f4" mapSet="984"/>
-        <layout first="197" last="197" modifiers="f4" mapSet="984"/>
-        <layout first="200" last="201" modifiers="f4" mapSet="984"/>
-        <layout first="206" last="207" modifiers="f4" mapSet="984"/>
+        <layout first="0" last="0" modifiers="f4" mapSet="16c"/>
     </layouts>
-    <modifierMap id="f4" defaultIndex="7">
+    <modifierMap id="f4" defaultIndex="0">
         <keyMapSelect mapIndex="0">
             <modifier keys="command?"/>
             <modifier keys="anyShift? caps? command"/>
@@ -115,11 +108,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=";"/>
+            <key code="85" output="'"/>
+            <key code="86" output=","/>
+            <key code="87" output="."/>
+            <key code="88" output="/"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
@@ -227,11 +220,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=":"/>
+            <key code="85" output="&#x0027;"/>
+            <key code="86" output="&#x003C;"/>
+            <key code="87" output="&#x003E;"/>
+            <key code="88" output="?"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
@@ -339,11 +332,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=";"/>
+            <key code="85" output="'"/>
+            <key code="86" output=","/>
+            <key code="87" output="."/>
+            <key code="88" output="/"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
@@ -451,11 +444,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=";"/>
+            <key code="85" output="'"/>
+            <key code="86" output=","/>
+            <key code="87" output="."/>
+            <key code="88" output="/"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
@@ -563,11 +556,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=";"/>
+            <key code="85" output="'"/>
+            <key code="86" output=","/>
+            <key code="87" output="."/>
+            <key code="88" output="/"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
@@ -675,11 +668,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=";"/>
+            <key code="85" output="'"/>
+            <key code="86" output=","/>
+            <key code="87" output="."/>
+            <key code="88" output="/"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
@@ -787,11 +780,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=";"/>
+            <key code="85" output="'"/>
+            <key code="86" output=","/>
+            <key code="87" output="."/>
+            <key code="88" output="/"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
@@ -899,11 +892,11 @@
             <key code="81" output="="/>
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
-            <key code="84" output="2"/>
-            <key code="85" output="3"/>
-            <key code="86" output="4"/>
-            <key code="87" output="5"/>
-            <key code="88" output="6"/>
+            <key code="84" output=";"/>
+            <key code="85" output="'"/>
+            <key code="86" output=","/>
+            <key code="87" output="."/>
+            <key code="88" output="/"/>
             <key code="89" output="7"/>
             <key code="91" output="8"/>
             <key code="92" output="9"/>
