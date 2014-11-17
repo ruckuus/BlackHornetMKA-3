@@ -221,7 +221,7 @@
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
             <key code="84" output=":"/>
-            <key code="85" output="&#x0027;"/>
+            <key code="85" output="&#x0022;"/>
             <key code="86" output="&#x003C;"/>
             <key code="87" output="&#x003E;"/>
             <key code="88" output="?"/>
