@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-11-15 at 17:57 (GMT+8)-->
 <!--Last edited by Ukelele version 2.2.8 on 2014-11-15 at 20:50 (GMT+8)-->
-<keyboard group="0" id="7508" name="U.S.ARM-MKA-3-Two" maxout="2">
+<keyboard group="0" id="7508" name="Black Hornet MKA-3" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="f4" mapSet="16c"/>
     </layouts>
