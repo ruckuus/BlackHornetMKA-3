@@ -29,4 +29,28 @@
         <identifier>private.swap_f6_slash</identifier>
         <autogen>__KeyToKey__ KeyCode::F6, KeyCode::KEYPAD_6</autogen>
     </item>
+
+    <item>
+        <name>Change Keypad 1 to CURSOR_UP</name>
+        <identifier>private.swap_keypad1_to_cursor_up</identifier>
+        <autogen>__KeyToKey__ KeyCode::KEYPAD_1, KeyCode::CURSOR_UP</autogen>
+    </item>
+
+    <item>
+        <name>Change Keypad MINUS to CURSOR_RIGHT</name>
+        <identifier>private.swap_keypad_minus_to_cursor_right</identifier>
+        <autogen>__KeyToKey__ KeyCode::KEYPAD_MINUS, KeyCode::CURSOR_RIGHT</autogen>
+    </item>
+
+    <item>
+        <name>Change Keypad PLUS to CURSOR_LEFT</name>
+        <identifier>private.swap_keypad_plus_to_cursor_left</identifier>
+        <autogen>__KeyToKey__ KeyCode::KEYPAD_PLUS, KeyCode::CURSOR_LEFT</autogen>
+    </item>
+
+    <item>
+        <name>Change Keycode ENTER to CURSOR_DOWN</name>
+        <identifier>private.swap_keycode_enter_to_cursor_down</identifier>
+        <autogen>__KeyToKey__ KeyCode::ENTER, KeyCode::CURSOR_DOWN</autogen>
+    </item>
 </root>
