@@ -333,7 +333,7 @@
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
             <key code="84" output=";"/>
-            <key code="85" output="'"/>
+            <key code="85" output="&#x0022;"/>
             <key code="86" output=","/>
             <key code="87" output="."/>
             <key code="88" output="/"/>
@@ -445,7 +445,7 @@
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
             <key code="84" output=";"/>
-            <key code="85" output="'"/>
+            <key code="85" output="&#x0022;"/>
             <key code="86" output=","/>
             <key code="87" output="."/>
             <key code="88" output="/"/>
@@ -557,7 +557,7 @@
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
             <key code="84" output=";"/>
-            <key code="85" output="'"/>
+            <key code="85" output="&#x0022;"/>
             <key code="86" output=","/>
             <key code="87" output="."/>
             <key code="88" output="/"/>
@@ -669,7 +669,7 @@
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
             <key code="84" output=";"/>
-            <key code="85" output="'"/>
+            <key code="85" output="&#x0022;"/>
             <key code="86" output=","/>
             <key code="87" output="."/>
             <key code="88" output="/"/>
@@ -781,7 +781,7 @@
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
             <key code="84" output=";"/>
-            <key code="85" output="'"/>
+            <key code="85" output="&#x0022;"/>
             <key code="86" output=","/>
             <key code="87" output="."/>
             <key code="88" output="/"/>
@@ -893,7 +893,7 @@
             <key code="82" output="0"/>
             <key code="83" output="&#x001E;"/>
             <key code="84" output=";"/>
-            <key code="85" output="'"/>
+            <key code="85" output="&#x0022;"/>
             <key code="86" output=","/>
             <key code="87" output="."/>
             <key code="88" output="/"/>
