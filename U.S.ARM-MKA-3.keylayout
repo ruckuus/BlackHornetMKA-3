@@ -79,7 +79,7 @@
             <key code="39" output="-"/>
             <key code="40" output="d"/>
             <key code="41" output=" "/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="["/>
             <key code="44" output="\"/>
             <key code="45" output="g"/>
@@ -97,7 +97,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="&#x001C;"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="&#x001F;"/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
@@ -191,7 +191,7 @@
             <key code="39" output="_"/>
             <key code="40" output="D"/>
             <key code="41" output=" "/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="{"/>
             <key code="44" output="|"/>
             <key code="45" output="G"/>
@@ -209,7 +209,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="+"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="="/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
@@ -303,7 +303,7 @@
             <key code="39" output="-"/>
             <key code="40" output="D"/>
             <key code="41" output="&#x0010;"/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="["/>
             <key code="44" output="\"/>
             <key code="45" output="G"/>
@@ -321,7 +321,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="&#x001C;"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="&#x001F;"/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
@@ -415,7 +415,7 @@
             <key code="39" output="–"/>
             <key code="40" output="∂"/>
             <key code="41" output="&#x0010;"/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="“"/>
             <key code="44" output="«"/>
             <key code="45" output="©"/>
@@ -433,7 +433,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="&#x001C;"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="&#x001F;"/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
@@ -527,7 +527,7 @@
             <key code="39" output="—"/>
             <key code="40" output="Î"/>
             <key code="41" output="&#x0010;"/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="”"/>
             <key code="44" output="»"/>
             <key code="45" output="˝"/>
@@ -545,7 +545,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="+"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="="/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
@@ -639,7 +639,7 @@
             <key code="39" output="–"/>
             <key code="40" output="Î"/>
             <key code="41" output="&#x0010;"/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="“"/>
             <key code="44" output="«"/>
             <key code="45" output="©"/>
@@ -657,7 +657,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="&#x001C;"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="&#x001F;"/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
@@ -751,7 +751,7 @@
             <key code="39" output="–"/>
             <key code="40" output="∂"/>
             <key code="41" output="&#x0010;"/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="“"/>
             <key code="44" output="«"/>
             <key code="45" output="©"/>
@@ -769,7 +769,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="&#x001C;"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="&#x001F;"/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
@@ -852,7 +852,7 @@
             <key code="28" output="1"/>
             <key code="29" output="3"/>
             <key code="30" output="&#x001B;"/>
-            <key code="31" output="&#x0008;"/>
+            <key code="31" output="&#x0009;"/>
             <key code="32" output="&#x000E;"/>
             <key code="33" output="&#x000D;"/>
             <key code="34" output="&#x0002;"/>
@@ -863,7 +863,7 @@
             <key code="39" output="&#x001F;"/>
             <key code="40" output="&#x0004;"/>
             <key code="41" output="&#x0010;"/>
-            <key code="42" output="&#x0008;"/>
+            <key code="42" output="&#x0009;"/>
             <key code="43" output="&#x001B;"/>
             <key code="44" output="&#x001C;"/>
             <key code="45" output="&#x0007;"/>
@@ -881,7 +881,7 @@
             <key code="67" output="&#x000C;"/>
             <key code="69" output="&#x001C;"/>
             <key code="70" output="&#x001C;"/>
-            <key code="71" output="&#x001B;"/>
+            <key code="71" output="&#x0008;"/>
             <key code="72" output="&#x001F;"/>
             <key code="75" output="&#x007F;"/>
             <key code="76" output="&#x001F;"/>
