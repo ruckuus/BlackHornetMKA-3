@@ -53,4 +53,10 @@
         <identifier>private.swap_keycode_enter_to_cursor_down</identifier>
         <autogen>__KeyToKey__ KeyCode::ENTER, KeyCode::CURSOR_DOWN</autogen>
     </item>
+
+    <item>
+        <name>CAPSLOCK to TAB</name>
+        <identifier>private.capslock_to_tab</identifier>
+        <autogen>__KeyToKey__ KeyCode::F7, KeyCode::TAB</autogen>
+    </item>
 </root>
