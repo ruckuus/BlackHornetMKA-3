@@ -115,7 +115,7 @@
             <key code="88" output="/"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" output="`"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="."/>
             <key code="97" output="/"/>
             <key code="98" output="&#x0010;"/>
@@ -227,7 +227,7 @@
             <key code="88" output="?"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" output="~"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="&#x003E;"/>
             <key code="97" output="?"/>
             <key code="98" output="&#x0010;"/>
@@ -339,7 +339,7 @@
             <key code="88" output="/"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" output="`"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="."/>
             <key code="97" output="/"/>
             <key code="98" output="&#x0010;"/>
@@ -451,7 +451,7 @@
             <key code="88" output="/"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" action="1"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="≥"/>
             <key code="97" output="÷"/>
             <key code="98" output="&#x0010;"/>
@@ -563,7 +563,7 @@
             <key code="88" output="/"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" output="`"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="˘"/>
             <key code="97" output="¿"/>
             <key code="98" output="&#x0010;"/>
@@ -675,7 +675,7 @@
             <key code="88" output="/"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" output="`"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="≥"/>
             <key code="97" output="÷"/>
             <key code="98" output="&#x0010;"/>
@@ -787,7 +787,7 @@
             <key code="88" output="/"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" output="`"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="≥"/>
             <key code="97" output="÷"/>
             <key code="98" output="&#x0010;"/>
@@ -899,7 +899,7 @@
             <key code="88" output="/"/>
             <key code="89" output="&#x0009;"/>
             <key code="91" output="`"/>
-            <key code="92" output="9"/>
+            <key code="92" output="&#x0008;"/>
             <key code="96" output="."/>
             <key code="97" output="/"/>
             <key code="98" output="&#x0010;"/>

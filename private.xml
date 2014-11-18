@@ -65,4 +65,10 @@
         <identifier>private.f3_to_tilde</identifier>
         <autogen>__KeyToKey__ KeyCode::F3, KeyCode::KEYPAD_8</autogen>
     </item>
+
+    <item>
+        <name>Keypad CLEAR to BACKSPACE</name>
+        <identifier>private.keypad_clear_to_backspace</identifier>
+        <autogen>__KeyToKey__ KeyCode::KEYPAD_CLEAR, KeyCode::KEYPAD_9</autogen>
+    </item>
 </root>
