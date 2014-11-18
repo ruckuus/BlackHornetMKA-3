@@ -55,8 +55,8 @@
     </item>
 
     <item>
-        <name>CAPSLOCK to TAB</name>
+        <name>CAPSLOCK (F7) to TAB (KEYPAD_7)</name>
         <identifier>private.capslock_to_tab</identifier>
-        <autogen>__KeyToKey__ KeyCode::F7, KeyCode::TAB</autogen>
+        <autogen>__KeyToKey__ KeyCode::F7, KeyCode::KEYPAD_7</autogen>
     </item>
 </root>
