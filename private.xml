@@ -59,4 +59,10 @@
         <identifier>private.capslock_to_tab</identifier>
         <autogen>__KeyToKey__ KeyCode::F7, KeyCode::KEYPAD_7</autogen>
     </item>
+
+    <item>
+        <name> F3 to Tilde</name>
+        <identifier>private.f3_to_tilde</identifier>
+        <autogen>__KeyToKey__ KeyCode::F3, KeyCode::KEYPAD_8</autogen>
+    </item>
 </root>
