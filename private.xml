@@ -19,5 +19,6 @@
         <autogen>__KeyToKey__ KeyCode::ESCAPE, KeyCode::RawValue::0xB</autogen>
         <autogen>__KeyToKey__ KeyCode::DELETE, KeyCode::RawValue::0xE</autogen>
         <autogen>__KeyToKey__ KeyCode::TAB, KeyCode::RawValue::0x5</autogen>
+        <autogen>__KeyToKey__ KeyCode::RawValue::0x21, KeyCode::RETURN</autogen>
     </item>
 </root>

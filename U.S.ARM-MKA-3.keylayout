@@ -73,7 +73,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="b"/>
             <key code="35" action="15"/>
-            <key code="36" output="4"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" action="14"/>
             <key code="38" output="c"/>
             <key code="39" output="-"/>
@@ -185,7 +185,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="B"/>
             <key code="35" action="8"/>
-            <key code="36" output="$"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" action="7"/>
             <key code="38" output="C"/>
             <key code="39" output="_"/>
@@ -297,7 +297,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="B"/>
             <key code="35" action="8"/>
-            <key code="36" output="4"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" action="7"/>
             <key code="38" output="C"/>
             <key code="39" output="-"/>
@@ -409,7 +409,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="∫"/>
             <key code="35" action="2"/>
-            <key code="36" output="¢"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" action="0"/>
             <key code="38" output="ç"/>
             <key code="39" output="–"/>
@@ -521,7 +521,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="ı"/>
             <key code="35" output="ˆ"/>
-            <key code="36" output="›"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" output="´"/>
             <key code="38" output="Ç"/>
             <key code="39" output="—"/>
@@ -633,7 +633,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="ı"/>
             <key code="35" output="ˆ"/>
-            <key code="36" output="¢"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" output="´"/>
             <key code="38" output="Ç"/>
             <key code="39" output="–"/>
@@ -745,7 +745,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="∫"/>
             <key code="35" output="^"/>
-            <key code="36" output="¢"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" output="´"/>
             <key code="38" output="ç"/>
             <key code="39" output="–"/>
@@ -857,7 +857,7 @@
             <key code="33" output="&#x000D;"/>
             <key code="34" output="&#x0002;"/>
             <key code="35" output="&#x0009;"/>
-            <key code="36" output="4"/>
+            <key code="36" output="&#x000D;"/>
             <key code="37" output="&#x0005;"/>
             <key code="38" output="&#x0003;"/>
             <key code="39" output="&#x001F;"/>
