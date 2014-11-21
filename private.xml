@@ -15,5 +15,9 @@
         <autogen>__KeyToKey__ KeyCode::F7, KeyCode::KEYPAD_7</autogen>
         <autogen>__KeyToKey__ KeyCode::F3, KeyCode::KEYPAD_8</autogen>
         <autogen>__KeyToKey__ KeyCode::KEYPAD_CLEAR, KeyCode::KEYPAD_9</autogen>
+        <autogen>__KeyToKey__ KeyCode::RETURN, KeyCode::RawValue::0xA</autogen>
+        <autogen>__KeyToKey__ KeyCode::ESCAPE, KeyCode::RawValue::0xB</autogen>
+        <autogen>__KeyToKey__ KeyCode::DELETE, KeyCode::RawValue::0xE</autogen>
+        <autogen>__KeyToKey__ KeyCode::TAB, KeyCode::RawValue::0x5</autogen>
     </item>
 </root>
