@@ -19,16 +19,13 @@ Execute:
 
 This script will do following:
 
-Copy .keylayout:
+~~Copy .keylayout:~~
+~~$ cp U.S.ARM-MKA-3.keylayout ~/Library/Keyboard\ Layouts/~~
+
+Copy private-pure.xml to Karabiner's configuration directory:
 
 ```
-$ cp U.S.ARM-MKA-3.keylayout ~/Library/Keyboard\ Layouts/
-```
-
-Copy private.xml:
-
-```
-$ cp private.xml /Users/dwi/Library/Application\ Support/Karabiner/private.xml
+$ cp private-pure.xml /Users/dwi/Library/Application\ Support/Karabiner/private.xml
 ```
 
 After installing these files you need to logout then login again. Once you are logged in, do following:
