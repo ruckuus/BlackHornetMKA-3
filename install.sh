@@ -3,8 +3,10 @@
 echo "Cleaning up cache"
 sudo find /var/ -name "*IntlDataCache*" -exec rm -f {} \;
 
-echo "Installing new layout"
-cp -av U.S.ARM-MKA-3.keylayout ~/Library/Keyboard\ Layouts/
+echo "NOT Installing custom layout"
+# cp -av U.S.ARM-MKA-3.keylayout ~/Library/Keyboard\ Layouts/
 
-echo "Installing private.xml"
-cp -av private.xml /Users/dwi/Library/Application\ Support/Karabiner/private.xml
+echo "Installing Karabiner remapping configuration."
+cp -av private-pure.xml /Users/dwi/Library/Application\ Support/Karabiner/private.xml
+
+echo "Installation done, open Karabiner then reload XML and enable configuration."
