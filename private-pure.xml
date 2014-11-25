@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Black Hornet MKA 3 US Keyboard Layout</name>
+        <identifier>private.black_hornet_mka_3_us_layout</identifier>
+        <autogen>__KeyToKey__ KeyCode::BRACKET_RIGHT, KeyCode::ESCAPE</autogen>
+        <autogen>__KeyToKey__ KeyCode::F8, KeyCode::F1</autogen>
+        <autogen>__KeyToKey__ KeyCode::F9, KeyCode::F2</autogen>
+        <autogen>__KeyToKey__ KeyCode::F10, KeyCode::F3</autogen>
+        <autogen>__KeyToKey__ KeyCode::F13, KeyCode::F6</autogen>
+        <autogen>__KeyToKey__ KeyCode::HELP, KeyCode::F9</autogen>
+        <autogen>__KeyToKey__ KeyCode::HOME, KeyCode::F10</autogen>
+        <autogen>__KeyToKey__ KeyCode::PAGEUP, KeyCode::F11</autogen>
+        <autogen>__KeyToKey__ KeyCode::FORWARD_DELETE, KeyCode::F12</autogen>
+        <autogen>__KeyToKey__ KeyCode::F3, KeyCode::BACKQUOTE</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_8, KeyCode::KEY_1</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_9, KeyCode::KEY_2</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_0, KeyCode::KEY_3</autogen>
+        <autogen>__KeyToKey__ KeyCode::RETURN, KeyCode::KEY_4</autogen>
+        <autogen>__KeyToKey__ KeyCode::ESCAPE, KeyCode::KEY_5</autogen>
+        <autogen>__KeyToKey__ KeyCode::DELETE, KeyCode::KEY_6</autogen>
+        <autogen>__KeyToKey__ KeyCode::TAB, KeyCode::KEY_7</autogen>
+        <autogen>__KeyToKey__ KeyCode::SPACE, KeyCode::KEY_8</autogen>
+        <autogen>__KeyToKey__ KeyCode::MINUS, KeyCode::KEY_9</autogen>
+        <autogen>__KeyToKey__ KeyCode::EQUAL, KeyCode::KEY_0</autogen>
+        <autogen>__KeyToKey__ KeyCode::QUOTE, KeyCode::MINUS</autogen>
+        <autogen>__KeyToKey__ KeyCode::BACKQUOTE, KeyCode::EQUAL</autogen>
+        <autogen>__KeyToKey__ KeyCode::BACKSLASH, KeyCode::DELETE</autogen>
+        <autogen>__KeyToKey__ KeyCode::X, KeyCode::Q</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_4, KeyCode::W</autogen>
+        <autogen>__KeyToKey__ KeyCode::L, KeyCode::E</autogen>
+        <autogen>__KeyToKey__ KeyCode::Y, KeyCode::R</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_1, KeyCode::T</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_6, KeyCode::Y</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_2, KeyCode::U</autogen>
+        <autogen>__KeyToKey__ KeyCode::P, KeyCode::I</autogen>
+        <autogen>__KeyToKey__ KeyCode::V, KeyCode::O</autogen>
+        <autogen>__KeyToKey__ KeyCode::W, KeyCode::P</autogen>
+        <autogen>__KeyToKey__ KeyCode::COMMA, KeyCode::BRACKET_LEFT</autogen>
+        <autogen>__KeyToKey__ KeyCode::DOT, KeyCode::BRACKET_RIGHT</autogen>
+        <autogen>__KeyToKey__ KeyCode::SLASH, KeyCode::BACKSLASH</autogen>
+        <autogen>__KeyToKey__ KeyCode::F7, KeyCode::TAB</autogen>
+        <autogen>__KeyToKey__ KeyCode::H, KeyCode::A</autogen>
+        <autogen>__KeyToKey__ KeyCode::Z, KeyCode::S</autogen>
+        <autogen>__KeyToKey__ KeyCode::K, KeyCode::D</autogen>
+        <autogen>__KeyToKey__ KeyCode::M, KeyCode::F</autogen>
+        <autogen>__KeyToKey__ KeyCode::N, KeyCode::G</autogen>
+        <autogen>__KeyToKey__ KeyCode::O, KeyCode::H</autogen>
+        <autogen>__KeyToKey__ KeyCode::Q, KeyCode::J</autogen>
+        <autogen>__KeyToKey__ KeyCode::R, KeyCode::K</autogen>
+        <autogen>__KeyToKey__ KeyCode::S, KeyCode::L</autogen>
+        <autogen>__KeyToKey__ KeyCode::F1, KeyCode::SEMICOLON</autogen>
+        <autogen>__KeyToKey__ KeyCode::F2, KeyCode::QUOTE</autogen>
+        <autogen>__KeyToKey__ KeyCode::BRACKET_LEFT, KeyCode::RETURN</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_7, KeyCode::Z</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_5, KeyCode::X</autogen>
+        <autogen>__KeyToKey__ KeyCode::J, KeyCode::C</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEY_3, KeyCode::V</autogen>
+        <autogen>__KeyToKey__ KeyCode::I, KeyCode::B</autogen>
+        <autogen>__KeyToKey__ KeyCode::U, KeyCode::N</autogen>
+        <autogen>__KeyToKey__ KeyCode::T, KeyCode::M</autogen>
+        <autogen>__KeyToKey__ KeyCode::F4, KeyCode::COMMA</autogen>
+        <autogen>__KeyToKey__ KeyCode::F5, KeyCode::DOT</autogen>
+        <autogen>__KeyToKey__ KeyCode::F6, KeyCode::SLASH</autogen>
+        <autogen>__KeyToKey__ KeyCode::SEMICOLON, KeyCode::SPACE</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEYPAD_PLUS, KeyCode::CURSOR_LEFT</autogen>
+        <autogen>__KeyToKey__ KeyCode::ENTER, KeyCode::CURSOR_DOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEYPAD_MINUS, KeyCode::CURSOR_RIGHT</autogen>
+        <autogen>__KeyToKey__ KeyCode::KEYPAD_1, KeyCode::CURSOR_UP</autogen>
+    </item>
+</root>
