@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-04-17 at 19:43 (SGT)-->
 <!--Last edited by Ukelele version 2.2.8 on 2015-04-17 at 19:43 (SGT)-->
-<keyboard group="0" id="11141" name="U.S." maxout="1">
+<keyboard group="0" id="11141" name="U.S. Razer Blackwidow Ultimate" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
         <layout first="18" last="18" modifiers="f4" mapSet="984"/>
@@ -942,81 +942,34 @@
     </keyMapSet>
     <keyMapSet id="984">
         <keyMap index="0" baseMapSet="16c" baseIndex="0">
-            <key code="24" output="^"/>
-            <key code="30" output="["/>
-            <key code="33" output="@"/>
-            <key code="39" output=":"/>
-            <key code="42" output="]"/>
-            <key code="93" output="¥"/>
-            <key code="94" output="_"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="1" baseMapSet="16c" baseIndex="1">
-            <key code="19" output="&#x0022;"/>
-            <key code="22" output="&#x0026;"/>
-            <key code="24" output="~"/>
-            <key code="25" output=")"/>
-            <key code="26" output="&#x0027;"/>
-            <key code="27" output="="/>
-            <key code="28" output="("/>
-            <key code="29" output="0"/>
-            <key code="30" output="{"/>
-            <key code="33" output="`"/>
-            <key code="39" output="*"/>
-            <key code="41" output="+"/>
-            <key code="42" output="}"/>
-            <key code="93" output="|"/>
-            <key code="94" output="_"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="2" baseMapSet="16c" baseIndex="2">
-            <key code="24" output="^"/>
-            <key code="30" output="["/>
-            <key code="33" output="@"/>
-            <key code="39" output=":"/>
-            <key code="42" output="]"/>
-            <key code="93" output="¥"/>
-            <key code="94" output="_"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="3" baseMapSet="16c" baseIndex="3">
-            <key code="93" output="\"/>
-            <key code="94" action="1"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="4" baseMapSet="16c" baseIndex="4">
-            <key code="93" output="|"/>
-            <key code="94" output="`"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="5" baseMapSet="16c" baseIndex="5">
-            <key code="93" output="\"/>
-            <key code="94" output="`"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="6" baseMapSet="16c" baseIndex="6">
-            <key code="93" output="\"/>
-            <key code="94" output="_"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="7" baseMapSet="16c" baseIndex="7">
-            <key code="93" output="|"/>
-            <key code="94" output="_"/>
-            <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
